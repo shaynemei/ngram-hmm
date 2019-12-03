@@ -1,1 +1,1 @@
-python3 check_hmm.py $1
+python3 script/check_hmm.py $1

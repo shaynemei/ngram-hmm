@@ -1,1 +1,1 @@
-python3 create_3gram_hmm.py $1 $2 $3 $4 $5
+python3 script/create_3gram_hmm.py $1 $2 $3 $4 $5
